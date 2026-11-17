@@ -1,0 +1,3 @@
+string student_name
+int32 sequence_number
+float64 measurement
